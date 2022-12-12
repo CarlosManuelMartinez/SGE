@@ -1,0 +1,6 @@
+Warning, your Odoo database manager is not protected. To secure it, we have generated the following master password for it:
+
+zmxa-c5qn-r5x6
+
+You can change it below but be sure to remember i
+
